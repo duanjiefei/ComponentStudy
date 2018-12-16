@@ -1,4 +1,4 @@
-package com.github.duanjiefei.base2;
+package com.github.duanjiefei.base;
 
 import org.junit.Test;
 

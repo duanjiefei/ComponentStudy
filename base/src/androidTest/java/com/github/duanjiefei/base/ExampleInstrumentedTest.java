@@ -1,4 +1,4 @@
-package com.github.duanjiefei.base2;
+package com.github.duanjiefei.base;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
